@@ -1,4 +1,4 @@
-# FAQ Seminare, Abschlusarbeiten etc.
+# FAQ Seminare, Abschlussarbeiten etc.
 Dies eine vorläufige Sammlung von Fragen, die mir immer wieder gestellt werden, und Antworten, die ich immer wieder gebe.
 
 ## duzen/siezen
@@ -17,7 +17,7 @@ Der übliche Abgabetermin ist der letzte Tag des Semesters (31.3. oder 30.9.). F
 Die Studienleistung differiert von Kurs zu Kurs. Sie sollte im Syllabus ausgewiesen sein.
 
 ## Muss ich regelmäßig zum Seminar kommen?
-Die kurze Antwort ist: Nein. Es gibt an der Uni Münster – bis auf Ausnahmen – keine Anwesenheitspflicht in Seminaren. Aber: Ihr habt euch für ein Studium der Politikwissenschaft entschieden und ich setze ein gewisses Interesse am Thema voraus. Ein Seminar ergibt inhaltlich keinen Sinn, wenn ihr nicht kommt.
+Die kurze Antwort ist: Nein. Es gibt an der Uni Münster – bis auf Ausnahmen – keine Anwesenheitspflicht in Seminaren. Aber: Ihr habt euch für ein Studium der Politikwissenschaft entschieden und ich setze ein gewisses Interesse am Thema voraus. Ein Seminar ergibt inhaltlich keinen Sinn, wenn ihr nicht kommt. Trotzdem gibt es immer mal wieder Gründe nicht zu kommen.
 
 ## Muss ich die Texte lesen?
 Auch hier ist die kurze Antwort: Nein. Solange ihr die Studienleistung ablegt, müsst ihr keinen einzigen Text lesen. Aber: Ein sozialwissenschaftliches Studium funktioniert nicht ohne das Lesen von Texten. Und ein Seminar funktioniert nicht als Konsumveranstaltung. Ohne die Texte zu lesen, könnt ihr euch nur sehr eingeschränkt an Diskussionen beteiligen. Gleichzeitig ist es in Ordnung auch mal einen Text nicht oder nur teilweise zu lesen. Es sollte aber nicht der Regelfall sein.
