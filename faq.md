@@ -4,14 +4,26 @@ Dies eine vorläufige Sammlung von Fragen, die mir immer wieder gestellt werden,
 ## duzen/siezen
 Üblicherweise duzen wir uns in meinen Seminaren. Wenn Sie das nicht möchten, sprechen Sie mich gerne an. Aus meiner Perspektive macht das die Gesprächsatmosphäre im Kurs angenehmer. Das Duzen ändert aber nichts daran, dass es ein Hierarchiegefälle zwischen uns gibt und ich am Ende eure Leistungen bewerten muss.
 
-## Was ist die Prüfungsleistung?
+----
+
+## Prüfungsleistung
+
+### Was ist die Prüfungsleistung?
 Die Prüfungsleistung ist im Regelfall eine Hausarbeit. Wenn die Prüfungsordnung eine mündliche Prüfung vorsieht, ist auch das möglich. Der Umfang der Hausarbeit richtet sich nach den Vorgaben in der jeweils relevanten Prüfungsordnung. Hausarbeiten können auch in Form einer Gruppenarbeit geschrieben werden. Voraussetzung ist dann aber eine gemeinsame Note. 
 
-## Warum keine Klausur?
+### Warum keine Klausur?
 Eine Klausur ist m.E. nur eine suboptimale Lösung für das Erlernen wissenschaftlicher Fähigkeiten. Sie löst vor allem ein arbeitsökonomisches Problem für Lehrende und Studierende. Da ihr am Ende des Studiums eine wissenschaftliche Arbeit schreiben müsst, solltet ihr das im Verlauf des Studiums möglichst früh üben.
 
-## Wann muss ich die Hausarbeit abgeben?
+### Wann muss ich die Hausarbeit abgeben?
 Der übliche Abgabetermin ist der letzte Tag des Semesters (31.3. oder 30.9.). Formale Gründe für eine Verschiebung der Abgabe sind ärztliche Atteste und ein durch das Prüfungsamt genehmigter Nachteilsausgleich. Wenn du eher informelle Gründe für eine Verschiebung hast, können wir das besprechen.
+
+### Was ist, wenn ich vergessen habe, die Prüfungsleistung anzumelden?
+Meistens lässt sich da erstmal wenig machen. Trotzdem beim Prüfungsamt fragen, dann in die Sprechstunde kommen.
+
+### Was ist, wenn ich eine Prüfungsleistung angemeldet habe - es aber nicht schaffe, eine Arbeit abzugeben?
+Eine Prüfungsleistung nicht abzugeben, führt erstmal zum Nichtbestehn der Leistung (5,0). Dann kannst du es dabei belassen oder einen Zweitversuch anmelden. Dann bekommst du nochmal ca. 2 Monate, um die Arbeit fertigzustellen oder neuzuschreiben. Vorsicht ist geboten, wenn du im Modul schon Fehlversuche hast (nur 2 Fehlversuche möglich).
+
+----
 
 ## Was ist die Studienleistung?
 Die Studienleistung differiert von Kurs zu Kurs. Sie sollte im Syllabus ausgewiesen sein.
@@ -34,11 +46,29 @@ Kurz: Ich bin der Meinung, dass alle Studierenden in wissenschaftlichen Arbeiten
 ## Was ist mit Plagiaten?
 Kurz: Besser nicht machen. Echte Plagiate fallen relativ häufig auf. Das gilt besonders für KI-produzierte Texte. 
 
-## Kann ich meine Abschlussarbeit bei dir schreiben?
-Grundsätzlich gerne. Es gibt aber einige Voraussetzungen: 1. Du hast eine eigene Themenidee, die du bestenfalls schon mal kurz skizziert hast, 2. Die Themenidee sollte - bis auf Ausnahmen - im weiteren Bereich von Protest und Sozialen Bewegungen angesiedelt sein. 3.regelmäßige Teilnahme am Kolloquium. Das Kolloquium findet im Semester wöchentlich und in der vorlesungsfreien Zeit etwa monatlich statt. Es ist quasi als Gruppensprechstunde konzipiert, in der Mitstudierende und ich Rückmeldungen zu euren Projekten geben. Ich betreue zu viele Arbeiten, als dass ich regelmäßige Einzelbetreuungen machen könnte.
+----
+
+## Abschlussarbeiten
+### Kann ich meine Abschlussarbeit bei dir schreiben?
+Grundsätzlich gerne. Es gibt aber einige Voraussetzungen: 1. Du hast eine eigene Themenidee, die du bestenfalls schon mal kurz skizziert hast und mit mir in einer Sprechstunde diskutieren kannst, 2. Die Themenidee sollte - bis auf Ausnahmen - im weiteren Bereich von Protest und Sozialen Bewegungen angesiedelt sein. 3. regelmäßige Teilnahme am Kolloquium. Das Kolloquium findet im Semester wöchentlich und in der vorlesungsfreien Zeit etwa monatlich statt. Es ist quasi als Gruppensprechstunde konzipiert, in der Mitstudierende und ich Rückmeldungen zu deinem Projekt geben. Ich betreue zu viele Arbeiten, als dass ich regelmäßige Einzelbetreuungen machen könnte.
+
+### Wie finde ich eine Zweitbetreuer:in?
+Du solltest zunächst mal selber auf die Suche gehen. Dabei solltest du überlegen, ob du von der Person auch inhaltlichen Input haben möchtest (höhere Anforderung) oder sie "nur" deine Arbeit korrigieren soll. Bevor du jemanden anschreibst, frag mich kurz!
+
+### Wie melde ich eine Bachelorarbeit an?
+Prüfungsamt 1 vs Wiwi
+
+### Wie melde ich eine Masterarbeit an?
+Mail vs CMS
+
+----
 
 ## Was ist, wenn ich Unterstützung brauche?
 Insbesondere wenn du Schwierigkeiten beim Fertigstellen von Hausarbeiten, Abschlussarbeiten etc. hast, empfehle ich möglichst schnell in meine Sprechstunde zu kommen. Dann können wir versuchen, eine Lösung zu finden. Weitergehende Unterstützungsmöglichkeiten bietet z.B. die zentrale Studienberatung (ZSB). 
 
 ## Kann ich einen Nachteilsausgleich haben?
 Klar. Wenn du Anspruch auf einen Nachteilsausgleich hast, wende dich an das Prüfungsamt.
+
+## Weitere Fragen
+* 
+* 
