@@ -50,16 +50,26 @@ Kurz: Besser nicht machen. Echte Plagiate fallen relativ häufig auf. Das gilt b
 
 ## Abschlussarbeiten
 ### Kann ich meine Abschlussarbeit bei dir schreiben?
-Grundsätzlich gerne. Es gibt aber einige Voraussetzungen: 1. Du hast eine eigene Themenidee, die du bestenfalls schon mal kurz skizziert hast und mit mir in einer Sprechstunde diskutieren kannst, 2. Die Themenidee sollte - bis auf Ausnahmen - im weiteren Bereich von Protest und Sozialen Bewegungen angesiedelt sein. 3. regelmäßige Teilnahme am Kolloquium. Das Kolloquium findet im Semester wöchentlich und in der vorlesungsfreien Zeit etwa monatlich statt. Es ist quasi als Gruppensprechstunde konzipiert, in der Mitstudierende und ich Rückmeldungen zu deinem Projekt geben. Ich betreue zu viele Arbeiten, als dass ich regelmäßige Einzelbetreuungen machen könnte.
+Grundsätzlich gerne. Es gibt aber einige Voraussetzungen: 1. Du hast eine eigene Themenidee, die du bestenfalls schon mal kurz skizziert hast und mit mir in einer Sprechstunde diskutieren kannst, 2. Die Themenidee sollte - bis auf Ausnahmen - im weiteren Bereich von Protest und Sozialen Bewegungen angesiedelt sein. 3. regelmäßige Teilnahme am Kolloquium. Das Kolloquium findet im Semester wöchentlich (Do 14-16 Uhr) und in der vorlesungsfreien Zeit etwa monatlich statt. Es ist quasi als Gruppensprechstunde konzipiert, in der Mitstudierende und ich Rückmeldungen zu deinem Projekt geben. Ich betreue zu viele Arbeiten, als dass ich regelmäßige Einzelbetreuungen machen könnte.
 
 ### Wie finde ich eine Zweitbetreuer:in?
 Du solltest zunächst mal selber auf die Suche gehen. Dabei solltest du überlegen, ob du von der Person auch inhaltlichen Input haben möchtest (höhere Anforderung) oder sie "nur" deine Arbeit korrigieren soll. Bevor du jemanden anschreibst, frag mich kurz!
 
 ### Wie melde ich eine Bachelorarbeit an?
-Prüfungsamt 1 vs Wiwi
+#### Prüfungsamt 1
+[Leitfaden](https://www.uni-muenster.de/Pruefungsamt1/formulare_bescheinigungen/leitfadenabschlussarbeitenanmelden.html)
+[FAQ Prüfungsamt](https://www.uni-muenster.de/Pruefungsamt1/pruefungen_uebergaenge/bachelor/index.html#BA-MA-Abschlussarbeiten-etc)
 
+#### Wiwi
+Politik+Recht, Politik+Wirtschaft
 ### Wie melde ich eine Masterarbeit an?
-Mail vs CMS
+#### Prüfungsamt 1
+[Leitfaden](https://www.uni-muenster.de/Pruefungsamt1/formulare_bescheinigungen/leitfadenabschlussarbeitenanmelden.html)
+[FAQ Prüfungsamt](https://www.uni-muenster.de/Pruefungsamt1/pruefungen_uebergaenge/bachelor/index.html#BA-MA-Abschlussarbeiten-etc)
+
+#### CMS
+M.Ed.
+
 
 ----
 
