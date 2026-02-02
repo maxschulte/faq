@@ -70,6 +70,9 @@ Politik+Recht, Politik+Wirtschaft
 #### CMS
 M.Ed.
 
+### weiterer Formalkram
+#### Prüfungsberechtigungen
+[Hier](https://www.uni-muenster.de/Pruefungsamt1/pruefungsberechtigungen/index.html) kann man sich anschauen, ob eine Lehrende die Prüfungsberechtigung für den eigenen Studiengang hat. Wenn ich eine Berechtigung für euren Studiengang nicht habe, muss ein [Antrag auf Einzelprüfungsberechtigung](https://www.uni-muenster.de/Pruefungsamt1/pruefungsberechtigungen/index.html) gestellt werden. 
 
 ----
 
