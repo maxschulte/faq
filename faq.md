@@ -31,6 +31,8 @@ Die Studienleistung differiert von Kurs zu Kurs. Sie sollte im Syllabus ausgewie
 
 ----
 
+# Seminar und wissenschaftliches Arbeiten
+
 ## Muss ich regelmäßig zum Seminar kommen?
 Die kurze Antwort ist: Nein. Es gibt an der Uni Münster – bis auf Ausnahmen – keine Anwesenheitspflicht in Seminaren. Aber: Ihr habt euch für ein Studium (der Politikwissenschaft) entschieden und ich setze ein gewisses Interesse am Thema voraus. Ein Seminar ergibt inhaltlich keinen Sinn, wenn ihr nicht kommt. Trotzdem gibt es immer mal wieder Gründe nicht zu kommen.
 
@@ -48,6 +50,17 @@ Kurz: Ich bin der Meinung, dass alle Studierenden in wissenschaftlichen Arbeiten
 
 ## Was ist mit Plagiaten?
 Kurz: Besser nicht machen. Echte Plagiate fallen relativ häufig auf und dann ist die Prüfungsleistung nicht bestanden. Gleichzeitig ist nicht jedes unsaubere Zitieren direkt ein Plagiat.
+
+## Was ist mit KI?
+Wir haben es hier mit einem komplexen Feld zu tun, so dass hier nur ein paar Leitplanken skizziert sind. Mein Ziel ist es, dass ihr am Ende des Seminars bzw. am Ende des Studiums einen wissenschaftlichen Forschungsprozess - wenn auch im kleinen - eigenständig durchlaufen könnt. Dazu gehört es, die einzelnen Schritte des Forschungsprozesses (Forschungsfrage finden und im Forschungsfeld verorten; Literatur suchen und lesen; theoretische Ansätze auf ihre Eignung überprüfen, Text formulieren; empirisches Material analysieren etc.) zu verstehen und zu gehen. Wenn ihr diese Schritte KI überlasst, fehlt euch einerseits die Fähigkeit Aufgaben ohne KI zu erledigen. Andererseits fehlt euch auch die Fähigkeit, einzuschätzen, ob das, was da generiert wurde, auch gut ist. Es geht also darum ein kritisches Bewusstsein in Bezug auf KI zu entwickeln. Kritisch nicht im Sinne von "Das ist alles böse!", sondern im Sinne von "Ich kann einordnen, was da generiert wird.". Daher sollte in wissenschaftlichen Arbeiten KI primär den eigenen Forschungsprozess unterstützen.
+
+Welche Nutzung von KI ist aus meine Sicht sinnvoll - mit Blick auf das gerade formulierte Ziel?
+* Korrektur von Rechtschreibung und Grammatik: Korrekturvorschläge - keine automatische stilistische Überarbeitung des ganzen Textes.
+* Transkription von Audiomaterial (z.B. mit Whisper oder Parakeet)
+* Literaturrecherche:
+
+Welche Nutzung ist aus meiner Sicht nicht geeignet?
+* Produktion von Text zur Verwendung in der Arbeit (auch nicht, wenn er mit Prompt zitiert wird)
 
 ----
 
